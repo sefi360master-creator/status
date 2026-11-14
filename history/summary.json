@@ -58,19 +58,19 @@
     "url": "$N8N_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "motores-de-calculo",
-    "status": "down",
-    "uptime": "54.20%",
-    "uptimeDay": "54.20%",
-    "uptimeWeek": "54.20%",
-    "uptimeMonth": "54.20%",
-    "uptimeYear": "54.20%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "2.78%",
+    "uptimeDay": "2.78%",
+    "uptimeWeek": "2.78%",
+    "uptimeMonth": "2.78%",
+    "uptimeYear": "2.78%",
+    "time": 424,
+    "timeDay": 424,
+    "timeWeek": 424,
+    "timeMonth": 424,
+    "timeYear": 424,
     "dailyMinutesDown": {
-      "2026-11-14": 0
+      "2026-11-14": 11
     }
   },
   {
